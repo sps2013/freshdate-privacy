@@ -87,3 +87,7 @@ If this policy changes, we will update this page and note the effective date.
 ### 7. Contact
 
 If you have questions about this privacy policy, please reach out via the developer contact on the App Store page.
+
+---
+
+用户协议 / Terms of Use：[中文](terms/) · [English](en/terms/)
